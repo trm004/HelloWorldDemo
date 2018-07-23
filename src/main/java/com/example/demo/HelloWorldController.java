@@ -12,4 +12,4 @@ public class HelloWorldController {
 	public String sayHello(@PathVariable("name") String name)  {
 		return "Hello " + name + " Welcome to DemoWorld!";
 	}
-}
+} 
